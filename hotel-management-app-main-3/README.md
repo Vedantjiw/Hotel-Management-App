@@ -18,11 +18,6 @@ This is a Java-based Hotel Management System using OOP concepts. It has two inte
 - Owner , staff and customer dashboards
 
 
-## 🤝 Collaborators
-- Tanushree Meshram (@tanushree2006)
-- Avaneesh Bodhe (@teammate1)
-- Samiksha Nimje (@teammate2)
-
 ## 🛠️ How to Run
 1. Clone the repo:
    ```bash
