@@ -16,9 +16,3 @@ This is a Java-based Hotel Management System using OOP concepts. It has two inte
 - Service management
 - Lost and found system
 - Owner , staff and customer dashboards
-
-
-## 🛠️ How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/tanushree2006/hotel-management-app.git
